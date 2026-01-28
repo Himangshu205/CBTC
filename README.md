@@ -1,2 +1,4 @@
 # CBTC
-The aim of this project is to make finctioning To do list(project website)
+The aim if this project is to make a functioning to do list 
+---
+The languages that has been used are:
